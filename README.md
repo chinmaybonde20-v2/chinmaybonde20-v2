@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chinmay Bonde</h1>
 <h3 align="center">I work as a front-end developer.</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,Bootstrap,Angular,Node.js**
+- 🌱 I’m currently learning **HTML,CSS,Bootstrap,JavaScript,Angular,Node.js**
 
 - 📫 How to reach me **chinmay.bonde@v2solutions.com**
 
